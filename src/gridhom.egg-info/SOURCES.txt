@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/gridhom/__init__.py
+src/gridhom/blocked.py
+src/gridhom/diagram.py
+src/gridhom/differential.py
+src/gridhom/rectangles.py
+src/gridhom/state.py
+src/gridhom/unblocked.py
+src/gridhom.egg-info/PKG-INFO
+src/gridhom.egg-info/SOURCES.txt
+src/gridhom.egg-info/dependency_links.txt
+src/gridhom.egg-info/top_level.txt
+tests/test_diagram.py
+tests/test_rectangles.py
+tests/test_state.py
